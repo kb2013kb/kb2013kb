@@ -2,5 +2,5 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Node.js .
 - 💞️ I’m looking to collaborate on a website project.
-- 📫 How to reach me: Telegram @kbgames4 or kb2013kb.site or even kotznayet@mail.ru
+- 📫 How to reach me: Telegram https://t.me/kbgames4 or https://kb2013kb.site or even kotznayet@mail.ru
 - ⚡ Fun fact: I'm eleven year boy from Turkey.
